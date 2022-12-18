@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+}
+
+body {
+    background-color:rgb(169, 247, 250);
+    font-family: "Open Sans";
+   }
+
+#fire {
+    color: #f5f5f5;
+    text-shadow:
+    0px -2px 4px #fff,
+    0px -2px 10px #FF3,
+    0px -10px 20px #F90,
+    0px -20px 40px #C33;
+    font-size: 100px;
+   }
+
+   img{
+    border-radius: 80px;
+   }
+
+   table{
+    border: solid 1px gold;
+    padding: 10px;
+    text-align: center;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+   }
