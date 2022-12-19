@@ -19,6 +19,12 @@ body {
 
    img{
     border-radius: 80px;
+    
+   }
+
+   .card-img-first, .card-img-second, .card-img-third {
+    height: 250px;
+    width: 300px;
    }
 
    table{
@@ -31,4 +37,6 @@ body {
 
    div> .card{
     float: left;
+    padding: 10px;
    }
+
